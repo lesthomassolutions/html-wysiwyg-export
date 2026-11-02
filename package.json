@@ -1,0 +1,15 @@
+{
+  "name": "html-wysiwyg-export",
+  "version": "1.5.0",
+  "private": true,
+  "description": "Convert HTML pages to PDF or high-resolution PNG exactly as they appear on screen, using the Chrome or Edge already installed.",
+  "license": "MIT",
+  "author": "Les Thomas",
+  "type": "module",
+  "engines": {
+    "node": ">=14.14"
+  },
+  "dependencies": {
+    "puppeteer-core": "19.11.1"
+  }
+}
