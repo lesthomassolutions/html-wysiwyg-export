@@ -1,0 +1,8 @@
+# Installed by INSTALL.cmd / npm install
+node_modules/
+package-lock.json
+
+# Converted output (written next to your HTML files)
+*.pdf
+*.png
+!docs/*.png
